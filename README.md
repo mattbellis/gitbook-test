@@ -1,4 +1,4 @@
-# Initial page
+# About Cerns Open Data Portal
 
-Hi there!
+Context
 
